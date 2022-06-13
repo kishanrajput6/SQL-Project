@@ -1,4 +1,4 @@
-# Exploring Sales Data in SQ
+# Exploring Sales Data in SQL
 
 [Dashboard](https://public.tableau.com/app/profile/kishan7163/viz/SalesDashboard_16548903554640/Main)
 
